@@ -33,8 +33,9 @@
 ## :building_construction: Data Structures
 - [Implementation](https://github.com/Pillarofcats/js_data_structures)
 
-## :briefcase: Portfolio Website
+<!-- ## :briefcase: Portfolio Website
 - [jacobwhite-dev.com](https://jacobwhite-dev.com)
+-->
 
 ## :mailbox_with_no_mail: Contact and Social
 - Email: Jacob.White.07@Gmail.com
