@@ -1,7 +1,5 @@
 ## :handshake: Hello, I'm Jacob White
-- Learning software system design
-- Software developer with UI/UX web experience
-- Looking for new opportunities
+- Learning system design
 - Avid bread baker and puzzle solver
 
 ## :star: Featured Projects
