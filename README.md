@@ -1,5 +1,5 @@
 ## :handshake: Hello, I'm Jacob White
-- Learning system design
+- Learning systems design
 - Avid bread baker and puzzle solver
 
 ## :star: Featured Projects
